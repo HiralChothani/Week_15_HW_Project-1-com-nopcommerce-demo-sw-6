@@ -1,0 +1,265 @@
+2023-05-16 14:05:935 INFO  HomePage :37 - Select Menu
+2023-05-16 14:05:265 INFO  ComputerPage :28 - Click On Desktop
+2023-05-16 14:05:834 INFO  DesktopPage :36 - Select Sort By Position
+2023-05-16 14:05:26 INFO  DesktopPage :41 - Return List of Product Name Elements
+2023-05-16 14:05:104 INFO  DesktopPage :41 - Return List of Product Name Elements
+2023-05-16 14:05:523 INFO  HomePage :37 - Select Menu
+2023-05-16 14:05:919 INFO  ComputerPage :28 - Click On Desktop
+2023-05-16 14:05:654 INFO  DesktopPage :36 - Select Sort By Position
+2023-05-16 14:05:920 INFO  DesktopPage :41 - Return List of Product Name Elements
+2023-05-16 14:05:30 INFO  DesktopPage :41 - Return List of Product Name Elements
+2023-05-16 14:05:561 INFO  HomePage :37 - Select Menu
+2023-05-16 14:05:39 INFO  ComputerPage :28 - Click On Desktop
+2023-05-16 14:05:740 INFO  DesktopPage :36 - Select Sort By Position
+2023-05-16 14:05:06 INFO  DesktopPage :41 - Return List of Product Name Elements
+2023-05-16 14:05:75 INFO  DesktopPage :41 - Return List of Product Name Elements
+2023-05-16 15:05:226 INFO  HomePage :37 - Select Menu
+2023-05-16 15:05:443 INFO  ComputerPage :28 - Click On Desktop
+2023-05-16 15:05:02 INFO  DesktopPage :36 - Select Sort By Position
+2023-05-16 15:05:182 INFO  DesktopPage :46 - Click On Add To Cart
+2023-05-16 15:05:879 INFO  HomePage :37 - Select Menu
+2023-05-16 15:05:391 INFO  ComputerPage :28 - Click On Desktop
+2023-05-16 15:05:428 INFO  DesktopPage :36 - Select Sort By Position
+2023-05-16 15:05:631 INFO  DesktopPage :46 - Click On Add To Cart
+2023-05-16 15:05:789 INFO  BuildYourOwnComputerPage :66 - Get Text From Build Your Own Product Title
+2023-05-16 15:05:844 INFO  BuildYourOwnComputerPage :72 - Select Processor
+2023-05-16 15:05:671 INFO  BuildYourOwnComputerPage :77 - Select RAM
+2023-05-16 15:05:924 INFO  BuildYourOwnComputerPage :83 - Select HDD
+2023-05-16 15:05:54 INFO  BuildYourOwnComputerPage :89 - Select OS
+2023-05-16 15:05:150 INFO  BuildYourOwnComputerPage :101 - Select Total Commander
+2023-05-16 15:05:250 INFO  BuildYourOwnComputerPage :106 - Check Total Price
+2023-05-16 15:05:615 INFO  HomePage :37 - Select Menu
+2023-05-16 15:05:964 INFO  ComputerPage :28 - Click On Desktop
+2023-05-16 15:05:615 INFO  DesktopPage :36 - Select Sort By Position
+2023-05-16 15:05:798 INFO  DesktopPage :46 - Click On Add To Cart
+2023-05-16 15:05:929 INFO  BuildYourOwnComputerPage :66 - Get Text From Build Your Own Product Title
+2023-05-16 15:05:980 INFO  BuildYourOwnComputerPage :72 - Select Processor
+2023-05-16 15:05:182 INFO  BuildYourOwnComputerPage :77 - Select RAM
+2023-05-16 15:05:404 INFO  BuildYourOwnComputerPage :83 - Select HDD
+2023-05-16 15:05:517 INFO  BuildYourOwnComputerPage :89 - Select OS
+2023-05-16 15:05:628 INFO  BuildYourOwnComputerPage :101 - Select Total Commander
+2023-05-16 15:05:729 INFO  BuildYourOwnComputerPage :106 - Check Total Price
+2023-05-16 15:05:505 INFO  HomePage :37 - Select Menu
+2023-05-16 15:05:648 INFO  ComputerPage :28 - Click On Desktop
+2023-05-16 15:05:270 INFO  DesktopPage :36 - Select Sort By Position
+2023-05-16 15:05:521 INFO  DesktopPage :46 - Click On Add To Cart
+2023-05-16 15:05:669 INFO  BuildYourOwnComputerPage :66 - Get Text From Build Your Own Product Title
+2023-05-16 15:05:724 INFO  BuildYourOwnComputerPage :72 - Select Processor
+2023-05-16 15:05:52 INFO  BuildYourOwnComputerPage :77 - Select RAM
+2023-05-16 15:05:268 INFO  BuildYourOwnComputerPage :83 - Select HDD
+2023-05-16 15:05:385 INFO  BuildYourOwnComputerPage :89 - Select OS
+2023-05-16 15:05:478 INFO  BuildYourOwnComputerPage :101 - Select Total Commander
+2023-05-16 15:05:593 INFO  BuildYourOwnComputerPage :106 - Check Total Price
+2023-05-16 15:05:659 INFO  BuildYourOwnComputerPage :111 - Click on Add to Cart Button
+2023-05-16 15:05:764 INFO  BuildYourOwnComputerPage :117 - Shopping Cart Msg
+2023-05-16 15:05:42 INFO  BuildYourOwnComputerPage :123 - Click on Cross Bar
+2023-05-16 15:05:156 INFO  ShoppingCartPage :66 - Mouse hover on shopping cart
+2023-05-16 15:05:488 INFO  ShoppingCartPage :71 - click On go to cart 
+2023-05-16 15:05:790 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-16 15:05:847 INFO  ShoppingCartPage :86 - clear an element from updated shopping cart 
+2023-05-16 15:05:994 INFO  ShoppingCartPage :76 - Update the quantity 2 to quantity field [[ChromeDriver: chrome on WINDOWS (f583364dd62484a53a803748f7c9c852)] -> xpath: //input[@class='qty-input']]
+2023-05-16 15:05:94 INFO  ShoppingCartPage :81 - click On update cart button 
+2023-05-16 15:05:907 INFO  HomePage :37 - Select Menu
+2023-05-16 15:05:298 INFO  ComputerPage :28 - Click On Desktop
+2023-05-16 15:05:916 INFO  DesktopPage :36 - Select Sort By Position
+2023-05-16 15:05:103 INFO  DesktopPage :46 - Click On Add To Cart
+2023-05-16 15:05:245 INFO  BuildYourOwnComputerPage :66 - Get Text From Build Your Own Product Title
+2023-05-16 15:05:306 INFO  BuildYourOwnComputerPage :72 - Select Processor
+2023-05-16 15:05:510 INFO  BuildYourOwnComputerPage :77 - Select RAM
+2023-05-16 15:05:731 INFO  BuildYourOwnComputerPage :83 - Select HDD
+2023-05-16 15:05:841 INFO  BuildYourOwnComputerPage :89 - Select OS
+2023-05-16 15:05:941 INFO  BuildYourOwnComputerPage :101 - Select Total Commander
+2023-05-16 15:05:38 INFO  BuildYourOwnComputerPage :106 - Check Total Price
+2023-05-16 15:05:100 INFO  BuildYourOwnComputerPage :111 - Click on Add to Cart Button
+2023-05-16 15:05:227 INFO  BuildYourOwnComputerPage :117 - Shopping Cart Msg
+2023-05-16 15:05:556 INFO  BuildYourOwnComputerPage :123 - Click on Cross Bar
+2023-05-16 15:05:23 INFO  ShoppingCartPage :66 - Mouse hover on shopping cart
+2023-05-16 15:05:394 INFO  ShoppingCartPage :71 - click On go to cart 
+2023-05-16 15:05:309 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-16 15:05:361 INFO  ShoppingCartPage :86 - clear an element from updated shopping cart 
+2023-05-16 15:05:500 INFO  ShoppingCartPage :76 - Update the quantity 2 to quantity field [[ChromeDriver: chrome on WINDOWS (a2a706a8e97a30a40073173d147d93fb)] -> xpath: //input[@class='qty-input']]
+2023-05-16 15:05:596 INFO  ShoppingCartPage :81 - click On update cart button 
+2023-05-16 15:05:325 INFO  HomePage :37 - Select Menu
+2023-05-16 15:05:709 INFO  ComputerPage :28 - Click On Desktop
+2023-05-16 15:05:841 INFO  DesktopPage :36 - Select Sort By Position
+2023-05-16 15:05:61 INFO  DesktopPage :46 - Click On Add To Cart
+2023-05-16 15:05:190 INFO  BuildYourOwnComputerPage :66 - Get Text From Build Your Own Product Title
+2023-05-16 15:05:247 INFO  BuildYourOwnComputerPage :72 - Select Processor
+2023-05-16 15:05:838 INFO  BuildYourOwnComputerPage :77 - Select RAM
+2023-05-16 15:05:58 INFO  BuildYourOwnComputerPage :83 - Select HDD
+2023-05-16 15:05:171 INFO  BuildYourOwnComputerPage :89 - Select OS
+2023-05-16 15:05:279 INFO  BuildYourOwnComputerPage :101 - Select Total Commander
+2023-05-16 15:05:400 INFO  BuildYourOwnComputerPage :106 - Check Total Price
+2023-05-16 15:05:453 INFO  BuildYourOwnComputerPage :111 - Click on Add to Cart Button
+2023-05-16 15:05:547 INFO  BuildYourOwnComputerPage :117 - Shopping Cart Msg
+2023-05-16 15:05:824 INFO  BuildYourOwnComputerPage :123 - Click on Cross Bar
+2023-05-16 15:05:990 INFO  ShoppingCartPage :66 - Mouse hover on shopping cart
+2023-05-16 15:05:277 INFO  ShoppingCartPage :71 - click On go to cart 
+2023-05-16 15:05:551 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-16 15:05:616 INFO  ShoppingCartPage :86 - clear an element from updated shopping cart 
+2023-05-16 15:05:769 INFO  ShoppingCartPage :76 - Update the quantity 2 to quantity field [[ChromeDriver: chrome on WINDOWS (82ec19add69b2059b41c7b56676d2441)] -> xpath: //input[@class='qty-input']]
+2023-05-16 15:05:873 INFO  ShoppingCartPage :81 - click On update cart button 
+2023-05-16 15:05:340 INFO  ShoppingCartPage :93 - Get text from total
+2023-05-16 15:05:383 INFO  ShoppingCartPage :99 - click on check box 
+2023-05-16 15:05:476 INFO  ShoppingCartPage :104 - click on check out 
+2023-05-16 15:05:132 INFO  CheckOutPage :72 - Get Text From Welcome Text
+2023-05-16 15:05:168 INFO  CheckOutPage :77 - Click Check Out
+2023-05-16 15:05:141 INFO  CheckOutPage :82 - Enter First Name John to First Name field [[ChromeDriver: chrome on WINDOWS (82ec19add69b2059b41c7b56676d2441)] -> css selector: #BillingNewAddress_FirstName]
+2023-05-16 15:05:251 INFO  CheckOutPage :87 - Enter Last Name Smith to Last Name field [[ChromeDriver: chrome on WINDOWS (82ec19add69b2059b41c7b56676d2441)] -> css selector: #BillingNewAddress_LastName]
+2023-05-16 15:05:395 INFO  CheckOutPage :92 - Enter email  XYZ@gmail.com to Email  field [[ChromeDriver: chrome on WINDOWS (82ec19add69b2059b41c7b56676d2441)] -> css selector: #BillingNewAddress_Email]
+2023-05-16 15:05:503 INFO  CheckOutPage :97 - Select Country From DropDown
+2023-05-16 15:05:760 INFO  CheckOutPage :102 - Enter City Name London to City Name field [[ChromeDriver: chrome on WINDOWS (82ec19add69b2059b41c7b56676d2441)] -> css selector: #BillingNewAddress_City]
+2023-05-16 15:05:883 INFO  CheckOutPage :107 - Enter Address Random Street to Address field [[ChromeDriver: chrome on WINDOWS (82ec19add69b2059b41c7b56676d2441)] -> css selector: #BillingNewAddress_Address1]
+2023-05-16 15:05:38 INFO  CheckOutPage :112 - Enter Post Code WES 6RT to Post Code field [[ChromeDriver: chrome on WINDOWS (82ec19add69b2059b41c7b56676d2441)] -> css selector: #BillingNewAddress_ZipPostalCode]
+2023-05-16 15:05:170 INFO  CheckOutPage :117 - Enter Phone Number 0777777777 to Phone Number field [[ChromeDriver: chrome on WINDOWS (82ec19add69b2059b41c7b56676d2441)] -> css selector: #BillingNewAddress_PhoneNumber]
+2023-05-16 15:05:302 INFO  CheckOutPage :122 - Click on Continue
+2023-05-16 15:05:395 INFO  ShippingPage :30 - click on next day air radio  
+2023-05-16 15:05:922 INFO  ShippingPage :35 - click on continue button 
+2023-05-16 15:05:45 INFO  PaymentPage :57 - Select Credit Card Radio Button
+2023-05-16 15:05:415 INFO  PaymentPage :62 - Continue Payment Button
+2023-05-16 15:05:792 INFO  PaymentPage :67 - Select Credit Card  2 to Credit Card  field [[ChromeDriver: chrome on WINDOWS (82ec19add69b2059b41c7b56676d2441)] -> id: CreditCardType]
+2023-05-16 17:05:672 INFO  HomePage :37 - Select Menu
+2023-05-16 17:05:593 INFO  ComputerPage :28 - Click On Desktop
+2023-05-16 17:05:257 INFO  DesktopPage :36 - Select Sort By Position
+2023-05-16 17:05:520 INFO  DesktopPage :46 - Click On Add To Cart
+2023-05-16 17:05:639 INFO  BuildYourOwnComputerPage :66 - Get Text From Build Your Own Product Title
+2023-05-16 17:05:689 INFO  BuildYourOwnComputerPage :72 - Select Processor
+2023-05-16 17:05:45 INFO  BuildYourOwnComputerPage :77 - Select RAM
+2023-05-16 17:05:272 INFO  BuildYourOwnComputerPage :83 - Select HDD
+2023-05-16 17:05:380 INFO  BuildYourOwnComputerPage :89 - Select OS
+2023-05-16 17:05:472 INFO  BuildYourOwnComputerPage :101 - Select Total Commander
+2023-05-16 17:05:577 INFO  BuildYourOwnComputerPage :106 - Check Total Price
+2023-05-16 17:05:632 INFO  BuildYourOwnComputerPage :111 - Click on Add to Cart Button
+2023-05-16 17:05:752 INFO  BuildYourOwnComputerPage :117 - Shopping Cart Msg
+2023-05-16 17:05:69 INFO  BuildYourOwnComputerPage :123 - Click on Cross Bar
+2023-05-16 17:05:373 INFO  ShoppingCartPage :66 - Mouse hover on shopping cart
+2023-05-16 17:05:736 INFO  ShoppingCartPage :71 - click On go to cart 
+2023-05-16 17:05:799 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-16 17:05:847 INFO  ShoppingCartPage :86 - clear an element from updated shopping cart 
+2023-05-16 17:05:969 INFO  ShoppingCartPage :76 - Update the quantity 2 to quantity field [[ChromeDriver: chrome on WINDOWS (82092e32d125f83bac161acf8fb42738)] -> xpath: //input[@class='qty-input']]
+2023-05-16 17:05:69 INFO  ShoppingCartPage :81 - click On update cart button 
+2023-05-16 17:05:551 INFO  ShoppingCartPage :93 - Get text from total
+2023-05-16 17:05:601 INFO  ShoppingCartPage :99 - click on check box 
+2023-05-16 17:05:708 INFO  ShoppingCartPage :104 - click on check out 
+2023-05-16 17:05:331 INFO  CheckOutPage :72 - Get Text From Welcome Text
+2023-05-16 17:05:475 INFO  CheckOutPage :77 - Click Check Out
+2023-05-16 17:05:823 INFO  HomePage :37 - Select Menu
+2023-05-16 17:05:76 INFO  ComputerPage :28 - Click On Desktop
+2023-05-16 17:05:735 INFO  DesktopPage :36 - Select Sort By Position
+2023-05-16 17:05:939 INFO  DesktopPage :46 - Click On Add To Cart
+2023-05-16 17:05:92 INFO  BuildYourOwnComputerPage :66 - Get Text From Build Your Own Product Title
+2023-05-16 17:05:137 INFO  BuildYourOwnComputerPage :72 - Select Processor
+2023-05-16 17:05:25 INFO  BuildYourOwnComputerPage :77 - Select RAM
+2023-05-16 17:05:242 INFO  BuildYourOwnComputerPage :83 - Select HDD
+2023-05-16 17:05:367 INFO  BuildYourOwnComputerPage :89 - Select OS
+2023-05-16 17:05:460 INFO  BuildYourOwnComputerPage :101 - Select Total Commander
+2023-05-16 17:05:575 INFO  BuildYourOwnComputerPage :106 - Check Total Price
+2023-05-16 17:05:628 INFO  BuildYourOwnComputerPage :111 - Click on Add to Cart Button
+2023-05-16 17:05:766 INFO  BuildYourOwnComputerPage :117 - Shopping Cart Msg
+2023-05-16 17:05:42 INFO  BuildYourOwnComputerPage :123 - Click on Cross Bar
+2023-05-16 17:05:161 INFO  ShoppingCartPage :66 - Mouse hover on shopping cart
+2023-05-16 17:05:579 INFO  ShoppingCartPage :71 - click On go to cart 
+2023-05-16 17:05:785 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-16 17:05:836 INFO  ShoppingCartPage :86 - clear an element from updated shopping cart 
+2023-05-16 17:05:946 INFO  ShoppingCartPage :76 - Update the quantity 2 to quantity field [[ChromeDriver: chrome on WINDOWS (cc5535e2a929a510adfaf44bb1994578)] -> xpath: //input[@class='qty-input']]
+2023-05-16 17:05:36 INFO  ShoppingCartPage :81 - click On update cart button 
+2023-05-16 17:05:466 INFO  ShoppingCartPage :93 - Get text from total
+2023-05-16 17:05:508 INFO  ShoppingCartPage :99 - click on check box 
+2023-05-16 17:05:605 INFO  ShoppingCartPage :104 - click on check out 
+2023-05-16 17:05:310 INFO  CheckOutPage :72 - Get Text From Welcome Text
+2023-05-16 17:05:345 INFO  CheckOutPage :77 - Click Check Out
+2023-05-16 19:05:383 INFO  HomePage :37 - Select Menu
+2023-05-16 19:05:588 INFO  ComputerPage :28 - Click On Desktop
+2023-05-16 19:05:266 INFO  DesktopPage :36 - Select Sort By Position
+2023-05-16 19:05:436 INFO  DesktopPage :46 - Click On Add To Cart
+2023-05-16 19:05:518 INFO  BuildYourOwnComputerPage :66 - Get Text From Build Your Own Product Title
+2023-05-16 19:05:583 INFO  BuildYourOwnComputerPage :72 - Select Processor
+2023-05-16 19:05:369 INFO  BuildYourOwnComputerPage :77 - Select RAM
+2023-05-16 19:05:566 INFO  BuildYourOwnComputerPage :83 - Select HDD
+2023-05-16 19:05:677 INFO  BuildYourOwnComputerPage :89 - Select OS
+2023-05-16 19:05:767 INFO  BuildYourOwnComputerPage :101 - Select Total Commander
+2023-05-16 19:05:867 INFO  BuildYourOwnComputerPage :106 - Check Total Price
+2023-05-16 19:05:495 INFO  HomePage :37 - Select Menu
+2023-05-16 19:05:878 INFO  ComputerPage :28 - Click On Desktop
+2023-05-16 19:05:393 INFO  DesktopPage :36 - Select Sort By Position
+2023-05-16 19:05:577 INFO  DesktopPage :46 - Click On Add To Cart
+2023-05-16 19:05:719 INFO  BuildYourOwnComputerPage :66 - Get Text From Build Your Own Product Title
+2023-05-16 19:05:775 INFO  BuildYourOwnComputerPage :72 - Select Processor
+2023-05-16 19:05:172 INFO  BuildYourOwnComputerPage :77 - Select RAM
+2023-05-16 19:05:385 INFO  BuildYourOwnComputerPage :83 - Select HDD
+2023-05-16 19:05:491 INFO  BuildYourOwnComputerPage :89 - Select OS
+2023-05-16 19:05:571 INFO  BuildYourOwnComputerPage :101 - Select Total Commander
+2023-05-16 19:05:658 INFO  BuildYourOwnComputerPage :106 - Check Total Price
+2023-05-16 19:05:711 INFO  BuildYourOwnComputerPage :111 - Click on Add to Cart Button
+2023-05-16 19:05:806 INFO  BuildYourOwnComputerPage :117 - Shopping Cart Msg
+2023-05-16 19:05:58 INFO  BuildYourOwnComputerPage :123 - Click on Cross Bar
+2023-05-16 19:05:156 INFO  ShoppingCartPage :66 - Mouse hover on shopping cart
+2023-05-16 19:05:356 INFO  ShoppingCartPage :71 - click On go to cart 
+2023-05-16 19:05:769 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-16 19:05:815 INFO  ShoppingCartPage :86 - clear an element from updated shopping cart 
+2023-05-16 19:05:899 INFO  ShoppingCartPage :76 - Update the quantity 2 to quantity field [[ChromeDriver: chrome on WINDOWS (dc4c57e893b5bd55e29a857210b5a107)] -> xpath: //input[@class='qty-input']]
+2023-05-16 19:05:989 INFO  ShoppingCartPage :81 - click On update cart button 
+2023-05-16 19:05:340 INFO  HomePage :58 - Mouse Hover On Electronics
+2023-05-16 19:05:720 INFO  HomePage :63 - Mouse Hover And Click OnCell Phone
+2023-05-16 19:05:141 INFO  CellPhonePage :31 - Get page title text of cell phone page
+2023-05-16 19:05:233 INFO  CellPhonePage :36 - click on list view icon[[ChromeDriver: chrome on WINDOWS (c086dfc502ae71f04864715c7a5b54f7)] -> xpath: //a[contains(text(),'List')]]
+2023-05-16 19:05:351 INFO  CellPhonePage :42 - click on product nokia lumia 1020
+2023-05-16 19:05:576 INFO  NokiaLumia1020Page :50 - Actual Title Text Of Product NokiaLumia1020Page
+2023-05-16 19:05:617 INFO  NokiaLumia1020Page :55 - Actual Price  Of Product NokiaLumia1020
+2023-05-16 19:05:654 INFO  NokiaLumia1020Page :60 - Clear An Element Before Entering Qty
+2023-05-16 19:05:753 INFO  NokiaLumia1020Page :65 - Update the Quantity  2to Quantity Field[[ChromeDriver: chrome on WINDOWS (c086dfc502ae71f04864715c7a5b54f7)] -> xpath: (//input[@id='product_enteredQuantity_20'])[1]]
+2023-05-16 19:05:850 INFO  NokiaLumia1020Page :70 - Click On Button Add To Cart From Page NokiaLumia1020
+2023-05-16 19:05:956 INFO  NokiaLumia1020Page :76 - Actual Message Of Product Being In Shopping Cart
+2023-05-16 19:05:988 INFO  NokiaLumia1020Page :81 - Click On Cross From Message
+2023-05-16 19:05:72 INFO  NokiaLumia1020Page :87 - Hover To Shopping Cart And Click On Add To Cart
+2023-05-16 19:05:688 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-16 19:05:725 INFO  ShoppingCartPage :114 - verifyQuantity 
+2023-05-16 19:05:798 INFO  ShoppingCartPage :93 - Get text from total
+2023-05-16 19:05:840 INFO  ShoppingCartPage :99 - click on check box 
+2023-05-16 19:05:935 INFO  ShoppingCartPage :104 - click on check out 
+2023-05-16 19:05:496 INFO  CheckOutPage :72 - Get Text From Welcome Text
+2023-05-16 19:05:617 INFO  CheckOutPage :127 - Click On Button Register
+2023-05-16 19:05:75 INFO  RegisterPage :90 - get actual title text of register page
+2023-05-16 19:05:159 INFO  RegisterPage :70 - Enter email [[ChromeDriver: chrome on WINDOWS (c086dfc502ae71f04864715c7a5b54f7)] -> xpath: //input[@id='Email']]
+2023-05-16 19:05:290 INFO  RegisterPage :54 - Enter first name John to username field [[ChromeDriver: chrome on WINDOWS (c086dfc502ae71f04864715c7a5b54f7)] -> xpath: //input[@id='FirstName']]
+2023-05-16 19:05:390 INFO  RegisterPage :59 - Enter last name Smith to username field [[ChromeDriver: chrome on WINDOWS (c086dfc502ae71f04864715c7a5b54f7)] -> xpath: //input[@id='LastName']]
+2023-05-16 19:05:480 INFO  RegisterPage :74 - Enter password Password1 to password field [[ChromeDriver: chrome on WINDOWS (c086dfc502ae71f04864715c7a5b54f7)] -> xpath: //input[@id='Password']]
+2023-05-16 19:05:582 INFO  RegisterPage :79 - Enter confirm password Password1 to confirm password field [[ChromeDriver: chrome on WINDOWS (c086dfc502ae71f04864715c7a5b54f7)] -> xpath: //input[@id='ConfirmPassword']]
+2023-05-16 19:05:666 INFO  RegisterPage :84 - click on button register next step 
+2023-05-16 19:05:410 INFO  RegistrationSuccessfulPage :30 - Get text successful registration
+2023-05-16 19:05:476 INFO  RegistrationSuccessfulPage :35 - click on continue button 
+2023-05-16 19:05:95 INFO  ShoppingCartPage :61 - Get text from shopping cart
+2023-05-16 19:05:145 INFO  LoginPage :45 - Click On Login Link
+2023-05-16 19:05:669 INFO  LoginPage :50 - Enter email  mocky368121068rEErDmouse@gmail.com to Email  field [[ChromeDriver: chrome on WINDOWS (c086dfc502ae71f04864715c7a5b54f7)] -> css selector: #Email]
+2023-05-16 19:05:815 INFO  LoginPage :55 - Enter Password  Password1 to Password  field [[ChromeDriver: chrome on WINDOWS (c086dfc502ae71f04864715c7a5b54f7)] -> css selector: #Password]
+2023-05-16 19:05:911 INFO  LoginPage :61 - Click On Login Button
+2023-05-16 19:05:244 INFO  LoginPage :66 - click on check box 
+2023-05-16 19:05:334 INFO  LoginPage :71 - click on check out 
+2023-05-16 19:05:305 INFO  CheckOutAfterRegistrationPage :138 - Enter email mocky368121068rEErDmouse@gmail.com to username field [[ChromeDriver: chrome on WINDOWS (c086dfc502ae71f04864715c7a5b54f7)] -> xpath: //input[@id='BillingNewAddress_Email']]
+2023-05-16 19:05:487 INFO  CheckOutAfterRegistrationPage :144 - select country from dropdown list
+2023-05-16 19:05:738 INFO  CheckOutAfterRegistrationPage :126 - Enter first name John to username field [[ChromeDriver: chrome on WINDOWS (c086dfc502ae71f04864715c7a5b54f7)] -> xpath: //input[@id='BillingNewAddress_FirstName']]
+2023-05-16 19:05:909 INFO  CheckOutAfterRegistrationPage :132 - Enter last name Smith to username field [[ChromeDriver: chrome on WINDOWS (c086dfc502ae71f04864715c7a5b54f7)] -> xpath: //input[@id='BillingNewAddress_LastName']]
+2023-05-16 19:05:59 INFO  CheckOutAfterRegistrationPage :149 - Enter city name London to username field [[ChromeDriver: chrome on WINDOWS (c086dfc502ae71f04864715c7a5b54f7)] -> xpath: //input[@id='BillingNewAddress_City']]
+2023-05-16 19:05:167 INFO  CheckOutAfterRegistrationPage :154 - Enter address 101 House to username field [[ChromeDriver: chrome on WINDOWS (c086dfc502ae71f04864715c7a5b54f7)] -> xpath: //input[@id='BillingNewAddress_Address1']]
+2023-05-16 19:05:281 INFO  CheckOutAfterRegistrationPage :159 - Enter postcode GS1 2FG to username field [[ChromeDriver: chrome on WINDOWS (c086dfc502ae71f04864715c7a5b54f7)] -> xpath: //input[@id='BillingNewAddress_ZipPostalCode']]
+2023-05-16 19:05:419 INFO  CheckOutAfterRegistrationPage :164 - Enter phone number 02022039384 to username field [[ChromeDriver: chrome on WINDOWS (c086dfc502ae71f04864715c7a5b54f7)] -> xpath: //input[@id='BillingNewAddress_PhoneNumber']]
+2023-05-16 19:05:516 INFO  CheckOutAfterRegistrationPage :169 - click on continue 
+2023-05-16 19:05:614 INFO  CheckOutAfterRegistrationPage :266 - click on radio button 2nd DayAir 
+2023-05-16 19:05:709 INFO  CheckOutAfterRegistrationPage :182 - click on button continue from shipping method 
+2023-05-16 19:05:828 INFO  CheckOutAfterRegistrationPage :189 - click on radio button credit card 
+2023-05-16 19:05:276 INFO  CheckOutAfterRegistrationPage :195 - click on button continue from payment method 
+2023-05-16 19:05:361 INFO  CheckOutAfterRegistrationPage :201 - click on drop down select card 
+2023-05-16 19:05:814 INFO  CheckOutAfterRegistrationPage :207 - Enter card holder name Mr Smith to username field [[ChromeDriver: chrome on WINDOWS (c086dfc502ae71f04864715c7a5b54f7)] -> xpath: //input[@id='CardholderName']]
+2023-05-16 19:05:917 INFO  CheckOutAfterRegistrationPage :213 - Enter card number 5105105105105100 to username field [[ChromeDriver: chrome on WINDOWS (c086dfc502ae71f04864715c7a5b54f7)] -> xpath: //input[@id='CardNumber']]
+2023-05-16 19:05:25 INFO  CheckOutAfterRegistrationPage :219 - select month from dropdown 
+2023-05-16 19:05:132 INFO  CheckOutAfterRegistrationPage :225 - select year from dropdown 
+2023-05-16 19:05:224 INFO  CheckOutAfterRegistrationPage :231 - Enter card code 203 to username field [[ChromeDriver: chrome on WINDOWS (c086dfc502ae71f04864715c7a5b54f7)] -> xpath: //input[@id='CardCode']]
+2023-05-16 19:05:292 INFO  CheckOutAfterRegistrationPage :237 - click On button continue from payment information 
+2023-05-16 19:05:365 INFO  CheckOutAfterRegistrationPage :243 - verify actual text of card method
+2023-05-16 19:05:892 INFO  CheckOutAfterRegistrationPage :249 - verify actual text of shipping method
+2023-05-16 19:05:928 INFO  CheckOutAfterRegistrationPage :255 - verify actual total final price
+2023-05-16 19:05:970 INFO  CheckOutAfterRegistrationPage :261 - click on button confirm 
+2023-05-16 19:05:55 INFO  OrderCompletionPage :33 - Get Text From ThankYou Title
+2023-05-16 19:05:993 INFO  OrderCompletionPage :37 - Get Text From Order SuccessMessage
+2023-05-16 19:05:20 INFO  OrderCompletionPage :42 - Click On Continue Order Completion Button
+2023-05-16 19:05:553 INFO  HomePage :53 - Get Text From Welcome Store
